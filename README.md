@@ -1,24 +1,23 @@
-# DNA Extraction
+# from Cells to Sequences 
 
-# Illumina Library Preparation
+### DNA Extraction
 
-## Shearing
+### Illumina Library Preparation
+Shearing
+End Repair
+Adapter Ligation
+PCR Enrichment
 
-## End Repair
+### Short-read sequencing
+bridge amplification PCR
 
-## Adapter Ligation
+# from Sequences to Variants
 
-## PCR Enrichment
+### Cleaning reads
 
-# Short-read sequencing
+### Calling variants
 
-## bridge amplification PCR
-
-# Cleaning reads
-
-# Calling variants
-
-# Downstream analyses
+### Downstream analyses
 
 materials and guide for the Turner Lab module of the KITP QBio Summer Research Course
 ## What kinds of mutations do the variants encode?
