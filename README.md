@@ -20,6 +20,9 @@ bridge amplification PCR
 ### Downstream analyses
 
 materials and guide for the Turner Lab module of the KITP QBio Summer Research Course
+
+https://rockefelleruniversity.github.io/RU_GenomicVariants/
+
 ## What kinds of mutations do the variants encode?
 ABCDEFG
 ## What are the likely effects of your mutations?
