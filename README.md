@@ -1,10 +1,16 @@
-# KITP_QBio_2024_Turner
+# You have variant data. Now what?
 materials and guide for the Turner Lab module of the KITP QBio Summer Research Course
-## test 1
+## What kinds of mutations do the variants encode?
 ABCDEFG
-### subtest 1
-abcdefg
-## test 2
-HIJKLMN
-## subtest 2
-hijkmln
+## What are the likely effects of your mutations?
+
+### Residue biochemistry
+synonymous, nonsynonymous, biochemically conserved
+
+### Domains
+MSA
+hhpred
+
+### Structure
+alphafold2 google collab notebook
+pymol to align structures
