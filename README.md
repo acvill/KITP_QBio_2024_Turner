@@ -1,4 +1,25 @@
-# You have variant data. Now what?
+# DNA Extraction
+
+# Illumina Library Preparation
+
+## Shearing
+
+## End Repair
+
+## Adapter Ligation
+
+## PCR Enrichment
+
+# Short-read sequencing
+
+## bridge amplification PCR
+
+# Cleaning reads
+
+# Calling variants
+
+# Downstream analyses
+
 materials and guide for the Turner Lab module of the KITP QBio Summer Research Course
 ## What kinds of mutations do the variants encode?
 ABCDEFG
